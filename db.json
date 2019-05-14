@@ -1,0 +1,79 @@
+{
+  "risks": [
+    {
+      "id": "1",
+      "studyID": "11",
+      "version": 1,
+      "name": "Terrorists are very likely to try to carry out attacks in Turkey",
+      "category": "Political",
+      "description": "Terrorists are very likely to try to carry out attacks in Turkey. A number of terrorist groups are active. Since 2015 there has been an increase in PKK (Kurdish separatist) terrorist activity in south-east Turkey. There have been a number of attacks by other groups including suicide attacks by Daesh",
+      "owners": [],
+      "state": "New",
+      "impact": null,
+      "likelihood": null,
+      "mitigationStrategy": null,
+      "preventionStrategy": null,
+      "severity": null
+    },
+    {
+      "id": "2",
+      "studyID": "11",
+      "version": 2,
+      "name": "Turkey is a secular democracy with a majority Muslim population. Its Head of State is President Recep Tayyip Erdoğan. Prior to election as president, Erdoğan served as Prime Minister. He is also leader of the Justice and Development Party (AKP), a centre-right party.",
+      "category": "Political",
+      "description": null,
+      "owners": [],
+      "state": "New",
+      "impact": 3,
+      "likelihood": 3,
+      "mitigationStrategy": null,
+      "preventionStrategy": null,
+      "severity": 3
+    },
+    {
+      "id": "3",
+      "studyID": "11",
+      "version": 3,
+      "name": "Following an economic crisis in 2001",
+      "category": "Economic",
+      "description": "Following an economic crisis in 2001, Turkey undertook major structural change in the finance sector, which, coupled with subsequent economic and political stability, led to an average growth rate of 5% between 2002 and 2014. Turkey’s economy slowed following security concerns, a failed coup attempt",
+      "owners": ["pamoudruz@slb.com"],
+      "state": "New",
+      "impact": 2,
+      "likelihood": 2,
+      "mitigationStrategy": null,
+      "preventionStrategy": null,
+      "severity": 2
+    },
+    {
+      "id": "4",
+      "studyID": "11",
+      "version": 1,
+      "name": "Given the existence of the Customs Union",
+      "category": "Commercial",
+      "description": "Given the existence of the Customs Union, a prerequisite for EU accession, EU companies do not experience the same obstacles they face in other high growth markets. However regulatory hurdles, decision-making paralysis and sudden changes to legislation and regulations can be frustrating. Additional ",
+      "owners": [],
+      "state": "New",
+      "impact": null,
+      "likelihood": null,
+      "mitigationStrategy": null,
+      "preventionStrategy": null,
+      "severity": null
+    },
+    {
+      "id": "5",
+      "studyID": "11",
+      "version": 3,
+      "name": "Under the UK Bribery Act, bribery is illegal and it is an offence for British nationals",
+      "category": "Political",
+      "description": "Under the UK Bribery Act, bribery is illegal and it is an offence for British nationals or someone who is ordinarily resident in the UK, a body incorporated in the UK or a Scottish partnership, to bribe anywhere in the world.",
+      "owners": ["eastes1@slb.com"],
+      "state": "Closed",
+      "impact": 5,
+      "likelihood": 5,
+      "mitigationStrategy": null,
+      "preventionStrategy": null,
+      "severity": 5
+    }
+  ]
+}
