@@ -9,8 +9,8 @@
       "description": "Terrorists are very likely to try to carry out attacks in Turkey. A number of terrorist groups are active. Since 2015 there has been an increase in PKK (Kurdish separatist) terrorist activity in south-east Turkey. There have been a number of attacks by other groups including suicide attacks by Daesh",
       "owners": [],
       "state": "New",
-      "impact": null,
-      "likelihood": null,
+      "impact": 2,
+      "likelihood": 3,
       "mitigationStrategy": null,
       "preventionStrategy": null,
       "severity": 2
@@ -54,8 +54,8 @@
       "description": "Given the existence of the Customs Union, a prerequisite for EU accession, EU companies do not experience the same obstacles they face in other high growth markets. However regulatory hurdles, decision-making paralysis and sudden changes to legislation and regulations can be frustrating. Additional ",
       "owners": [],
       "state": "New",
-      "impact": null,
-      "likelihood": null,
+      "impact": 3,
+      "likelihood": 4,
       "mitigationStrategy": null,
       "preventionStrategy": null,
       "severity": 4
@@ -69,11 +69,11 @@
       "description": "Under the UK Bribery Act, bribery is illegal and it is an offence for British nationals or someone who is ordinarily resident in the UK, a body incorporated in the UK or a Scottish partnership, to bribe anywhere in the world.",
       "owners": [],
       "state": "Closed",
-      "impact": 5,
+      "impact": 4,
       "likelihood": 5,
       "mitigationStrategy": null,
       "preventionStrategy": null,
-      "severity": 2
+      "severity": 4
     }
   ]
 }
