@@ -13,7 +13,7 @@
       "likelihood": null,
       "mitigationStrategy": null,
       "preventionStrategy": null,
-      "severity": null
+      "severity": 2
     },
     {
       "id": "2",
@@ -58,7 +58,7 @@
       "likelihood": null,
       "mitigationStrategy": null,
       "preventionStrategy": null,
-      "severity": null
+      "severity": 4
     },
     {
       "id": "5",
@@ -73,7 +73,7 @@
       "likelihood": 5,
       "mitigationStrategy": null,
       "preventionStrategy": null,
-      "severity": 5
+      "severity": 2
     }
   ]
 }
